@@ -6,3 +6,6 @@ KDD CUP 2018 (目前Top3) 解决方案
 
 ---
 ### 网页链接：https://biendata.com/competition/kdd_2018
+
+---
+方案说明待后续完善。。。
