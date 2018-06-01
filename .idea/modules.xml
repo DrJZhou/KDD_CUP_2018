@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KDD CUP2018.iml" filepath="$PROJECT_DIR$/.idea/KDD CUP2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syl/开源工具/drawio-master/.idea/drawio-master.iml" filepath="$PROJECT_DIR$/../syl/开源工具/drawio-master/.idea/drawio-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syl/图像/模块模板/standardized_module/.idea/html.iml" filepath="$PROJECT_DIR$/../syl/图像/模块模板/standardized_module/.idea/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syl/图像/建筑设计/.idea/建筑设计.iml" filepath="$PROJECT_DIR$/../syl/图像/建筑设计/.idea/建筑设计.iml" />
+    </modules>
+  </component>
+</project>
