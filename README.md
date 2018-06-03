@@ -7,6 +7,7 @@ KDD CUP 2018 Top3 解决方案
 ---
 ### 网页链接：https://biendata.com/competition/kdd_2018
 ### KDD CUP 2018 Top4 链接（转发，侵权请联系删除）： https://github.com/piupiuup/kdd2018/blob/master/.gitignore/code
+### KDD CUP 初赛 Top1 链接（转发，侵权请联系删除）：https://github.com/ryancheunggit/kddcup2018-of-fresh-air
 ### KDD CUP 2017 Task2 Top2 链接：https://github.com/12190143/Black-Swan
 ----
 ## 环境要求
