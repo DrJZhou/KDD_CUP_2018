@@ -1,12 +1,13 @@
 # KDD_CUP_2018
-KDD CUP 2018 (目前Top3) 解决方案
+KDD CUP 2018 Top3 解决方案
 ---
 ## 队名： 头号玩家@ICA@CortexLa
 ## 队员： 周杰（华东师范大学）  蔡恒兴（中山大学）
 
 ---
 ### 网页链接：https://biendata.com/competition/kdd_2018
-
+### KDD CUP 2018 Top4 链接： https://github.com/piupiuup/kdd2018/blob/master/.gitignore/code
+### KDD CUP 2017 Task2 Top2 链接：https://github.com/12190143/Black-Swan
 ----
 ## 环境要求
 ### Python2.7
