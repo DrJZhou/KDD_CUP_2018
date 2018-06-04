@@ -30,8 +30,6 @@ def run_later(start_day, end_day):
 def run(start_day, end_day):
     lightgbm_run(day1=start_day, day2=end_day, caiyun=True)
     get_ans(end_day=end_day, caiyun=True)
-    link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/彩云数据算法结束"
-    requests.get(link3)
     lightgbm_run(day1=start_day, day2=end_day, caiyun=False)
     get_ans(end_day=end_day, caiyun=False)
 
@@ -41,8 +39,6 @@ def run(start_day, end_day):
 
 
 def main():
-    link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/算法开始"
-    requests.get(link3)
     time_now = datetime.now()
     time_now = time_now - timedelta(hours=9)
     start_day = (time_now - timedelta(days=2)).strftime('%Y-%m-%d')
@@ -50,21 +46,7 @@ def main():
     # start_day = "2018-05-08"
     # end_day = "2018-05-10"
     run(start_day, end_day)
-    link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/算法结束"
-    requests.get(link3)
     run_later(start_day, end_day)
-    # filename = end_day + "lightgbm_mean_ensemble_29_6.csv"
-    # submit(filename=filename)
-    # link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/提交成功1"
-    # requests.get(link3)
-    # filename = end_day + "lightgbm_ensemble_mean_weight.csv"
-    # submit(filename=filename)
-    # link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/提交成功2"
-    # requests.get(link3)
-    # filename = end_day + "lightgbm_ensemble_median_2.csv"
-    # submit(filename=filename)
-    # link3 = "http://axz.ciih.net/index.php/Api/Gsm/msg/msg/提交成功3"
-    # requests.get(link3)
 
 
 
