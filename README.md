@@ -1,5 +1,6 @@
 # KDD_CUP_2018
-KDD CUP 2018 Top3 解决方案
+# 获得奖项 KDD CUP 2018 第三名；最佳长期预测第二名；最后十天预测第五名；
+## KDD CUP 2018 解决方案
 ---
 ## 队名： 头号玩家@ICA@CortexLabs
 ## 队员： 周杰（华东师范大学）  蔡恒兴（CortexLabs,中山大学）
