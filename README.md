@@ -48,7 +48,7 @@
    
 
 ---
-具体方案说明待后续完善。。。
+具体方案见[报告](https://github.com/12190143/KDD_CUP_2018/blob/master/KDD_2018_report.pdf)
 
 
 ## 联系方式
